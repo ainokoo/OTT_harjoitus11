@@ -6,6 +6,7 @@ using namespace std;
 int main() {
 
 print_hello();
+cout <<"Hei maailma!"<< endl;
 
 return 0;
 
