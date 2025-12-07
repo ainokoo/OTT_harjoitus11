@@ -7,6 +7,7 @@ int main() {
 
 print_hello();
 cout <<"Hei maailma!"<< endl;
+cout <<"Hej världen!"<< endl;
 
 return 0;
 
